@@ -21,6 +21,7 @@
   cursor: pointer;
   width: 80%;
   padding: ($base-size / 2);
+  transition: all 0.3s ease-in-out;
 
   i {
     padding-right: ($base-size / 2);
