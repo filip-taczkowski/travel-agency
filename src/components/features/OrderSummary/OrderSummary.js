@@ -10,7 +10,7 @@ import styles from './OrderSummary.scss';
 
 const OrderSummary = ({options, cost}) => (
   <h2 className={styles.component}>Total: $ <strong>
-    {calculateTotal(formatPrice(cost), options)}
+    {calculateTotal(formatPrice(cost), options).toFixed(2)}
   </strong></h2>
 );
 
