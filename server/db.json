@@ -1,0 +1,91 @@
+{
+  "orders": [
+    {
+      "car-rental": "suv",
+      "accommodation": "hotel",
+      "features": [
+        "kitchen",
+        "pool",
+        "security"
+      ],
+      "adults": 1,
+      "children": "1",
+      "name": "123123",
+      "contact": "21312312",
+      "start-date": "",
+      "totalCost": "$200,102",
+      "id": 1
+    },
+    {
+      "tripId": "5cc1d1011736309a788fd36d",
+      "tripName": "Marvelous foray in brilliant Tokelau",
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$129,702",
+      "id": 2
+    },
+    {
+      "tripId": "5cc1d1011736309a788fd36d",
+      "tripName": "Marvelous foray in brilliant Tokelau",
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$129,702",
+      "id": 3
+    },
+    {
+      "tripId": "5cc1d1011736309a788fd36d",
+      "tripName": "Marvelous foray in brilliant Tokelau",
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$129,702",
+      "id": 4
+    },
+    {
+      "tripId": "5cc1d1011736309a788fd36d",
+      "tripName": "Marvelous foray in brilliant Tokelau",
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "123123",
+      "contact": "2131",
+      "start-date": "",
+      "totalCost": "$129,702",
+      "id": 5
+    },
+    {
+      "tripId": "5cc1d1011736309a788fd36d",
+      "tripName": "Marvelous foray in brilliant Tokelau",
+      "tripCountryCode": "TKL",
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "12312312",
+      "contact": "123123",
+      "start-date": "",
+      "totalCost": "$129,702",
+      "id": 6
+    }
+  ]
+}
