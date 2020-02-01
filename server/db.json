@@ -86,6 +86,21 @@
       "start-date": "",
       "totalCost": "$129,702",
       "id": 6
+    },
+    {
+      "tripId": "5cc1d10162f0f1af674aaf17",
+      "tripName": "Fabulous outing in awesome United Arab Emirates",
+      "tripCountryCode": "ARE",
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "asd",
+      "contact": "asd",
+      "start-date": "",
+      "totalCost": "$114,036",
+      "id": 7
     }
   ]
 }
